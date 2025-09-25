@@ -11,6 +11,8 @@
   "description": "",
   "dependencies": {
     "discord": "^0.8.2",
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.2",
     "firebase-admin": "^13.5.0"
   }
 }
